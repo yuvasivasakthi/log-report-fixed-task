@@ -1,0 +1,6 @@
+Building Docker image harbor-prebuilt:harbor-docker-egress-control-sidecar--38d5fad35d5daec4 from C:\Users\yuva2\AppData\Roaming\uv\tools\harbor\Lib\site-packages\harbor\environments\docker\harbor-docker-egress-control-sidecar using C:\Users\yuva2\AppData\Roaming\uv\tools\harbor\Lib\site-packages\harbor\environments\docker\harbor-docker-egress-control-sidecar\Dockerfile at 2026-07-04 06:18:11.415390+00:00
+Skipping image OS validation for hb__bde6a9c5640887c5aeb82b4d3565ed34: docker inspect returned 1
+Collecting main service artifacts
+Trial log-report__Ka9Xrwh failed: No reward file found at jobs\2026-07-04__11-47-59\log-report__Ka9Xrwh\verifier\reward.txt or jobs\2026-07-04__11-47-59\log-report__Ka9Xrwh\verifier\reward.json
+Exception RewardFileNotFoundError is in exclude_exceptions, not retrying
+Not retrying trial because the exception is not in include_exceptions or the maximum number of retries has been reached
